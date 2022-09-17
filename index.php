@@ -89,8 +89,8 @@ if (isset($_GET['hal'])) {
 
 <body>
     <div class="container">
-        <h1 class="text-center">CRUD</h1>
-        <h2 class="text-center">CRUD</h2>
+        <h1 class="text-center">SPA</h1>
+        <h2 class="text-center">Test (2) HNI</h2>
         <div class="card">
             <h5 class="card-header">Buat User Baru</h5>
             <div class="card-body">
